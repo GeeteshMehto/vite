@@ -1,6 +1,7 @@
 <p align="center">
   <br>
   <br>
+  <br>
   <a href="https://vite.dev" target="_blank" rel="noopener noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://vite.dev/vite-light.svg">
